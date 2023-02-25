@@ -2,6 +2,7 @@
     "name": "codelyir/codelyir",
     "description": "A tool for beginner or student.",
     "type": "project",
+    "license": "proprietary",
     "require": {
         "dompdf/dompdf": "^1.2.0"
     }
