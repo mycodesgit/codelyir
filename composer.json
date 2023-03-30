@@ -5,6 +5,9 @@
     "require": {
         "mpdf/mpdf": "^8.1"
     },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    
     "authors": [
         {
             "name": "Loreto G. Gabawa Jr."
