@@ -1,16 +1,15 @@
 {
-    "name": "codelyir/codelyir",
+    "name": "mycodesgit/codelyir",
     "description": "A tool for a beginner or student",
     "type": "project",
-    "license": "proprietary",
-    "keywords": ["lorem","codelyir"],
     "require": {
-        "mpdf/mpdf": "^8.1",
-        "mycodesgit/codelyir": "dev-main"
+        "mpdf/mpdf": "^8.1"
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true,
-    
+    "autoload": {
+        "psr-4": {
+            "Mycodesgit\\Codelyir\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Loreto G. Gabawa Jr."
