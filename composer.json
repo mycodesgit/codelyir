@@ -5,7 +5,7 @@
     "license": "proprietary",
     "require": {
         "mpdf/mpdf": "^8.1",
-        "codelyir/codelyir": "dev-main"
+        "mycodesgit/codelyir": "dev-main"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
